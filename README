@@ -1,0 +1,1 @@
+This is a music application/project using chucK (http://chuck.cs.princeton.edu/), MAXMSP (http://cycling74.com/products/max/), and Processing (http://www.processing.org/) to create a pitch detecting robot. It uses a fuzzy logic algorithm to predict likely room tones and voice pitches, and has a xylophone playing robot "accompany" whatever it hears. 
