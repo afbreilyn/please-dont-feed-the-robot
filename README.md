@@ -2,7 +2,7 @@
 
 Please Don't Feed The Robot is a multimedia project I built throughout the 2012-2013 school year. It was a featured installation at the CalArts Digital Arts Exposition in May of 2013. 
 
-It was written in [chucK](http://chuck.cs.princeton.edu/), [Processing](http://www.processing.org/), and [MAX/MSP](http://cycling74.com/products/max/), using a xylophone-playing robot created by [Ajay Kapuy](http://www.ajaykapur.com/). 
+It was written in [chucK](http://chuck.cs.princeton.edu/), [Processing](http://www.processing.org/), and [MAX/MSP](http://cycling74.com/products/max/), using a xylophone-playing robot created by [Ajay Kapur](http://www.ajaykapur.com/). 
 
 ## Features
 
